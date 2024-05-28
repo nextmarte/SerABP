@@ -1,11 +1,19 @@
 ---
-title: "SerABP"
+title: Potencial e Desafios da ABP e IA no Ensino de Programação.
 format: revealjs
+output: 
+  revealjs::revealjs_presentation:
+    theme: white
+    center: false
+    slideNumber: true
+    controls: true
+    progress: true
+
 Author: "Ariel Levy e Marcus Antonio"
 date: today
-footer: VIII SER - Seminário Internacional de estatística com R
+footer: VIII SER - Seminário Internacional de estatística com R - Universidade Federal Fluninense
 ---
 
-## Quarto
+## Introdução
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
